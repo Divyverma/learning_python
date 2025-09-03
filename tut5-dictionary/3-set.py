@@ -15,8 +15,3 @@ s2 = {3,5,7,5,4}
 
 print(s1.union(s2)) # this do union of both the sets
 print(s1.intersection(s2)) #this do intersection of the sets
-
-#   git add .
-#   git commit -m "list and tuple"
-#   git branch -M main
-#   git push -u origin main
